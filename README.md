@@ -176,7 +176,7 @@ You can check out here : [https://prudhvignv.github.io/pathFinderVisualizer/](ht
 
 
 ### LICENSE
-[MIT](LICENSE.md)
+[MIT](\LICENSE.md)
 
 
 
