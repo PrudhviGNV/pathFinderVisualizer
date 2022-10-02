@@ -7,6 +7,10 @@
 ---------------
 ### check out live demo [HERE](https://prudhvignv.github.io/pathFinderVisualizer/)
 
+### Translations
+* :uk: ![English (original)](https://github.com/PrudhviGNV/pathFinderVisualizer/blob/master/translations/README-ptbr.md)
+* :brazil: ![Português Brasileiro](https://github.com/PrudhviGNV/pathFinderVisualizer/blob/master/translations/README-ptbr.md)
+
 ##### DFS visualization demo:
 
    ![dfs](https://user-images.githubusercontent.com/39909903/91169511-5723df00-e68c-11ea-87ed-896412c347b2.PNG)
